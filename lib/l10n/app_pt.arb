@@ -1,0 +1,19 @@
+{
+  "appTitle": "Meu Cacto",
+  "waterNow": "Regar Agora",
+  "addPlant": "Adicionar Planta",
+  "premiumUpgrade": "Upgrade Premium",
+  "premiumMessage": "Você atingiu o limite de 3 plantas. Faça o upgrade para Premium para adicionar mais!",
+  "ok": "OK",
+  "cancel": "Cancelar",
+  "plantName": "Nome da Planta",
+  "species": "Espécie",
+  "frequencyDays": "Frequência de Rega (Dias)",
+  "save": "Salvar",
+  "camera": "Câmera",
+  "gallery": "Galeria",
+  "nextWatering": "Próxima rega em {days} dias",
+  "wateredToday": "Regado Hoje",
+  "overdue": "Atrasado há {days} dias",
+  "emptyGarden": "Seu jardim está vazio. Adicione uma planta!"
+}

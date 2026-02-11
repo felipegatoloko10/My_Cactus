@@ -1,0 +1,19 @@
+{
+  "appTitle": "My Cactus",
+  "waterNow": "Water Now",
+  "addPlant": "Add Plant",
+  "premiumUpgrade": "Premium Upgrade",
+  "premiumMessage": "You have reached the limit of 3 plants. Upgrade to Premium to add more!",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "plantName": "Plant Name",
+  "species": "Species",
+  "frequencyDays": "Watering Frequency (Days)",
+  "save": "Save",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "nextWatering": "Next Watering in {days} days",
+  "wateredToday": "Watered Today",
+  "overdue": "Overdue by {days} days",
+  "emptyGarden": "Your garden is empty. Add a plant!"
+}
