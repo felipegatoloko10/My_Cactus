@@ -12,9 +12,9 @@
 
 Experimente a versão mais recente do aplicativo agora mesmo!
 
-[<img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android" height="40">](releases/app-release.apk)
+[<img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android" height="40">](https://github.com/felipegatoloko10/My_Cactus/raw/main/releases/app-release.apk)
 
-**[Clique aqui para baixar o APK (app-release.apk)](releases/app-release.apk)**
+**[Clique aqui para baixar o APK (app-release.apk)](https://github.com/felipegatoloko10/My_Cactus/raw/main/releases/app-release.apk)**
 
 > **Nota:** Para instalar, você pode precisar habilitar a instalação de fontes desconhecidas nas configurações do seu dispositivo Android.
 
